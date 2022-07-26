@@ -23,7 +23,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="content" element={<Content />} />
+      <Route path="home" element={<Home />} />
     </Routes>
   </BrowserRouter>
 );

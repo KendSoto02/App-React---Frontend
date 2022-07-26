@@ -12,7 +12,7 @@ const Form = () => {
 
   useEffect(() => {
     if (isSubmitted){
-      navigate('/content')
+      navigate('/home')
     }
   }, [isSubmitted])
 
