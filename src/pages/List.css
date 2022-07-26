@@ -1,0 +1,31 @@
+.onTime {
+    background: rgb(3, 109, 3);
+    border-radius: 4rem;
+    margin: 10px;
+    color: rgb(235, 236, 235);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+    padding: 0.8rem;
+    list-style-type: decimal
+  }
+
+  .overTime {
+    background: rgb(133, 30, 30);
+    border-radius: 4rem;
+    margin: 10px;
+    color: rgb(240, 245, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+    padding: 0.8rem;
+    list-style-type: decimal
+  }
+  .delayed {
+    background: rgb(146, 146, 45);
+    border-radius: 4rem;
+    margin: 10px;
+    color: rgb(237, 240, 237);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+    padding: 0.8rem;
+    list-style-type: decimal
+  }
